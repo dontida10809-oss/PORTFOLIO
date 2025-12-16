@@ -1,5 +1,3 @@
-# PORTFOLIO.
-
 # PORTFOLIO
 ## 🔎 ABOUT ME
 <br>I am a Computer Science student with a strong interest in software quality assurance and testing. I enjoy analyzing systems, identifying issues, and ensuring applications run smoothly according to user requirements.<br>
