@@ -10,8 +10,8 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Cleaned and preprocessed fast food nutritional data using Python (pandas) to handle missing and inconsistent values.
 - Performed exploratory data analysis (EDA) and created visualizations (matplotlib, seaborn) to identify trends in calories, fat, protein, and carbs.
 - Generated actionable insights and recommendations for healthier menu choices based on nutritional content.
-
- https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
+  
+  https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
 ---
 
 ## Customer Churn Prediction
