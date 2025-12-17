@@ -34,8 +34,9 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 
 <br>
 <br>
-
+---
 ## Other Web Page
 ### Importing data from the database, able to add, delete, and edit data.
 - comsci-rmutp.com/661115/Lab7_8/mainmenu.php
 ---
+### Testing software from sample websites
