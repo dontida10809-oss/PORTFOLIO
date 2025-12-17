@@ -32,7 +32,9 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 
 ---
 
-
+<br>
+<br>
+<br>
 <br>
 <br>
 
@@ -45,3 +47,4 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 - https://github.com/dontida10809-oss/Test-Saucedemo
 ---
 ## NOTE
+I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.
