@@ -5,7 +5,7 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 ---
 
 ## PROJECTS SELF LEARNING
-### Thailand Tourism Data Analysis (2022–2024)
+## Thailand Tourism Data Analysis (2022–2024)
 
 - Analyzed domestic tourism data in Thailand (2022–2024)
 - Performed data cleaning, exploratory data analysis (EDA), and visualization using Python (pandas, matplotlib, seaborn)
@@ -13,6 +13,12 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Generated business insights to support tourism planning and decision-making
 
 https://github.com/dontida10809-oss/Thailand_Tourism_Analysis
+---
+
+## Fast Food Nutrition Analysis
+- Cleaned and preprocessed fast food nutritional data using Python (pandas) to handle missing and inconsistent values.
+- Performed exploratory data analysis (EDA) and created visualizations (matplotlib, seaborn) to identify trends in calories, fat, protein, and carbs.
+- Generated actionable insights and recommendations for healthier menu choices based on nutritional content.
 ---
 ## Web Page
 ### Importing data from the database, able to add, delete, and edit data.
