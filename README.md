@@ -28,15 +28,20 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 - Identified top provinces, monthly trends, and seasonal patterns
 - Generated business insights to support tourism planning and decision-making
 
- https://github.com/dontida10809-oss/Thailand_Tourism_Analysis
+ https://github.com/dontida10809-oss/Thailand_Tourism_Analysis<br>
+
 ---
 
 
 <br>
 <br>
+
 ---
 ## Other Web Page
 ### Importing data from the database, able to add, delete, and edit data.
 - comsci-rmutp.com/661115/Lab7_8/mainmenu.php
 ---
 ### Testing software from sample websites
+- https://github.com/dontida10809-oss/Test-Saucedemo
+---
+## NOTE
