@@ -11,7 +11,8 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Performed data cleaning, exploratory data analysis (EDA), and visualization using Python (pandas, matplotlib, seaborn)
 - Identified top provinces, monthly trends, and seasonal patterns
 - Generated business insights to support tourism planning and decision-making
-  
+
+https://github.com/dontida10809-oss/Thailand_Tourism_Analysis
 ---
 ## Web Page
 ### Importing data from the database, able to add, delete, and edit data.
