@@ -22,6 +22,9 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 
  https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
 ---
+
+## Customer Churn Prediction
+
 ## Web Page
 ### Importing data from the database, able to add, delete, and edit data.
 - comsci-rmutp.com/661115/Lab7_8/mainmenu.php
