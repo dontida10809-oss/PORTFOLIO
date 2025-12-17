@@ -12,13 +12,15 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Identified top provinces, monthly trends, and seasonal patterns
 - Generated business insights to support tourism planning and decision-making
 
-https://github.com/dontida10809-oss/Thailand_Tourism_Analysis
+ https://github.com/dontida10809-oss/Thailand_Tourism_Analysis
 ---
 
 ## Fast Food Nutrition Analysis
 - Cleaned and preprocessed fast food nutritional data using Python (pandas) to handle missing and inconsistent values.
 - Performed exploratory data analysis (EDA) and created visualizations (matplotlib, seaborn) to identify trends in calories, fat, protein, and carbs.
 - Generated actionable insights and recommendations for healthier menu choices based on nutritional content.
+
+ https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
 ---
 ## Web Page
 ### Importing data from the database, able to add, delete, and edit data.
