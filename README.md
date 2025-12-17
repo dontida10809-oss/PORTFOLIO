@@ -24,6 +24,10 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 ---
 
 ## Customer Churn Prediction
+- Analyzed customer dataset to identify churn patterns and trends.
+- Performed data preprocessing and exploratory data analysis (EDA) to prepare data for modeling.
+- Developed a Logistic Regression model to predict customers at risk of churn.
+- Identified key factors influencing churn and provided strategic recommendations to improve customer retention
 
 ## Web Page
 ### Importing data from the database, able to add, delete, and edit data.
