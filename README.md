@@ -11,7 +11,7 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Performed exploratory data analysis (EDA) and created visualizations (matplotlib, seaborn) to identify trends in calories, fat, protein, and carbs.
 - Generated actionable insights and recommendations for healthier menu choices based on nutritional content.
   
-  https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
+https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
 ---
 
 ## Customer Churn Prediction
@@ -33,11 +33,8 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
  ---
  ## Social Media Behavior Analysis
 - Analyzed social media usage behavior and its impact on mental health and relationships using survey data
-
 - Performed data cleaning, exploratory data analysis (EDA), and data visualization using Python (pandas, matplotlib, seaborn)
-
 - Generated data-driven insights on usage patterns, addiction levels, sleep hours, and interpersonal conflicts
-
 https://github.com/dontida10809-oss/Social_media_behavior_analysis
 
 ---
