@@ -35,6 +35,7 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 - Analyzed social media usage behavior and its impact on mental health and relationships using survey data
 - Performed data cleaning, exploratory data analysis (EDA), and data visualization using Python (pandas, matplotlib, seaborn)
 - Generated data-driven insights on usage patterns, addiction levels, sleep hours, and interpersonal conflicts
+
 https://github.com/dontida10809-oss/Social_media_behavior_analysis
 
 ---
