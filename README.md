@@ -21,6 +21,7 @@ I am a Computer Science student with a strong interest in Data Analysis, which h
 - Identified key factors influencing churn and provided strategic recommendations to improve customer retention
 
 https://github.com/dontida10809-oss/Customer-Churn-Prediction
+---
 ## Thailand Tourism Data Analysis (2022–2024)
 
 - Analyzed domestic tourism data in Thailand (2022–2024)
@@ -29,10 +30,15 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 - Generated business insights to support tourism planning and decision-making
 
  https://github.com/dontida10809-oss/Thailand_Tourism_Analysis<br>
+ ---
  ## Social Media Behavior Analysis
-- Cleaned and analyzed real-world survey data using Python (pandas) to ensure data quality and consistency.
-- Performed Exploratory Data Analysis (EDA) to uncover relationships between social media usage, mental health, sleep hours, and interpersonal conflicts.
-- Visualized insights using matplotlib and seaborn to clearly communicate patterns and support data-driven conclusions.
+- Analyzed social media usage behavior and its impact on mental health and relationships using survey data
+
+- Performed data cleaning, exploratory data analysis (EDA), and data visualization using Python (pandas, matplotlib, seaborn)
+
+- Generated data-driven insights on usage patterns, addiction levels, sleep hours, and interpersonal conflicts
+
+https://github.com/dontida10809-oss/Social_media_behavior_analysis
 
 ---
 
