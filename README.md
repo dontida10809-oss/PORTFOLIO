@@ -29,6 +29,10 @@ https://github.com/dontida10809-oss/Customer-Churn-Prediction
 - Generated business insights to support tourism planning and decision-making
 
  https://github.com/dontida10809-oss/Thailand_Tourism_Analysis<br>
+ ## Social Media Behavior Analysis
+- Cleaned and analyzed real-world survey data using Python (pandas) to ensure data quality and consistency.
+- Performed Exploratory Data Analysis (EDA) to uncover relationships between social media usage, mental health, sleep hours, and interpersonal conflicts.
+- Visualized insights using matplotlib and seaborn to clearly communicate patterns and support data-driven conclusions.
 
 ---
 
