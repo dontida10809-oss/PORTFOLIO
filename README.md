@@ -1,40 +1,40 @@
 # PORTFOLIO
 ## 🔎 ABOUT ME
-I am a Computer Science student with a strong interest in Data Analysis, which has driven me to pursue self-directed learning. I have foundational skills in Python, SQL, Excel, basic data visualization, as well as effective communication and teamwork abilities. I am eager to apply my academic knowledge during an internship, ready to learn from experienced professionals to develop practical experience and prepare for a future career in Data Analysis.
+ดิฉันชื่อ นางสาวดลธิดา กล้าแข็ง เป็นนักศึกษาชั้นปีที่ 3 คณะวิทยาศาสตร์และเทคโนโลยี สาขาวิทยาการคอมพิวเตอร์ที่มีความสนใจด้านการวิเคราะห์ข้อมูลจากการที่ได้เรียนรายวิชาสถิติจึงได้เริ่มเรียนรู้เพิ่มเติมด้วยตนเอง ปัจจุบันมีทักษะพื้นฐานในการใช้ Python, SQL, Excel และการทำ Data Visualization เบื้องต้น รวมถึงมีทักษะด้านการสื่อสารและการทำงานร่วมกับผู้อื่น ดิฉันต้องการนำความรู้ที่มีไปต่อยอดในการฝึกงาน เรียนรู้การทำงานจริงจากผู้มีประสบการณ์ และพัฒนาทักษะตัวเองให้พร้อมสำหรับการทำงานในสาย Data Analyst ในอนาคตต่อไปค่ะ
 
 ---
 
 ## PROJECTS SELF LEARNING
 
 ## Fast Food Nutrition Analysis
-- Cleaned and preprocessed fast food nutritional data using Python (pandas) to handle missing and inconsistent values.
-- Performed exploratory data analysis (EDA) and created visualizations (matplotlib, seaborn) to identify trends in calories, fat, protein, and carbs.
-- Generated actionable insights and recommendations for healthier menu choices based on nutritional content.
+- ทำความสะอาดและเตรียมข้อมูลโภชนาการอาหารฟาสต์ฟู้ดด้วย Python (pandas) โดยจัดการกับข้อมูลที่ขาดหายและไม่สอดคล้องกัน
+- วิเคราะห์ข้อมูลเชิงสำรวจ (EDA) และสร้างกราฟด้วย matplotlib และ seaborn เพื่อดูแนวโน้มของแคลอรี ไขมัน โปรตีน และคาร์โบไฮเดรต
+- สรุปผลการวิเคราะห์และนำเสนอ Insight พร้อมข้อเสนอแนะในการเลือกเมนูที่มีคุณค่าทางโภชนาการมากขึ้น
   
 https://github.com/dontida10809-oss/FastFood-Nutrition-Analysis
 ---
 
 ## Customer Churn Prediction
-- Analyzed customer dataset to identify churn patterns and trends.
-- Performed data preprocessing and exploratory data analysis (EDA) to prepare data for modeling.
-- Developed a Logistic Regression model to predict customers at risk of churn.
-- Identified key factors influencing churn and provided strategic recommendations to improve customer retention
+- วิเคราะห์ข้อมูลลูกค้าเพื่อหาแนวโน้มและรูปแบบของการยกเลิกใช้บริการ (Churn)
+- เตรียมข้อมูลและทำ Exploratory Data Analysis (EDA) เพื่อให้ข้อมูลพร้อมสำหรับการสร้างโมเดล
+- สร้างโมเดล Logistic Regression เพื่อคาดการณ์ลูกค้าที่มีความเสี่ยงจะยกเลิกใช้บริการ
+- วิเคราะห์ปัจจัยสำคัญที่ส่งผลต่อการเกิด Churn และนำเสนอข้อเสนอแนะเชิงกลยุทธ์เพื่อช่วยเพิ่มอัตราการรักษาลูกค้า
 
 https://github.com/dontida10809-oss/Customer-Churn-Prediction
 ---
 ## Thailand Tourism Data Analysis (2022–2024)
 
-- Analyzed domestic tourism data in Thailand (2022–2024)
-- Performed data cleaning, exploratory data analysis (EDA), and visualization using Python (pandas, matplotlib, seaborn)
-- Identified top provinces, monthly trends, and seasonal patterns
-- Generated business insights to support tourism planning and decision-making
+- วิเคราะห์ข้อมูลการท่องเที่ยวภายในประเทศของประเทศไทยในช่วงปี 2022–2024
+- ทำความสะอาดข้อมูล วิเคราะห์เชิงสำรวจ (EDA) และสร้างกราฟด้วย Python (pandas, matplotlib, seaborn)
+- วิเคราะห์จังหวัดที่มีนักท่องเที่ยวสูงสุด แนวโน้มรายเดือน และรูปแบบตามฤดูกาล
+- สรุป Insight เชิงธุรกิจเพื่อใช้สนับสนุนการวางแผนและการตัดสินใจด้านการท่องเที่ยว
 
  https://github.com/dontida10809-oss/Thailand_Tourism_Analysis<br>
  ---
  ## Social Media Behavior Analysis
-- Analyzed social media usage behavior and its impact on mental health and relationships using survey data
-- Performed data cleaning, exploratory data analysis (EDA), and data visualization using Python (pandas, matplotlib, seaborn)
-- Generated data-driven insights on usage patterns, addiction levels, sleep hours, and interpersonal conflicts
+- วิเคราะห์พฤติกรรมการใช้งานโซเชียลมีเดียและความสัมพันธ์กับสุขภาพจิตและความสัมพันธ์ระหว่างบุคคลจากข้อมูลแบบสอบถามจากDataset
+- ทำความสะอาดข้อมูล วิเคราะห์เชิงสำรวจ (EDA) และสร้างกราฟด้วย Python (pandas, matplotlib, seaborn)
+- สรุป Insight จากข้อมูลเกี่ยวกับรูปแบบการใช้งาน, ระดับการเสพติด, ชั่วโมงการนอน และปัญหาความขัดแย้งระหว่างบุคคล
 
 https://github.com/dontida10809-oss/Social_media_behavior_analysis
 
